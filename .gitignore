@@ -2,3 +2,5 @@
 appengine-generated/
 *.save
 *.save.*
+*.pyc
+longtermaccesstoken.py
