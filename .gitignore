@@ -3,4 +3,6 @@ appengine-generated/
 *.save
 *.save.*
 *.pyc
+*.csv
+*.html
 longtermaccesstoken.py
